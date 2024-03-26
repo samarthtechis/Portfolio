@@ -52,7 +52,7 @@ a.font-black{
 
 #about .skills{
     font-size: 14px;
-    color: aqua;
+    color:  #00ABAE;
     margin-bottom: 10px;
 }
 
@@ -67,7 +67,7 @@ a.font-black{
 }
 
 #about .icons a{
-    color:grey
+    color:rgb(24, 23, 23)
 }
 
 /* project */
