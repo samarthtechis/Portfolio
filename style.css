@@ -35,8 +35,9 @@ a.font-black{
 }
 
 #about img{
-    border-radius: 50%;
-    width: 120px;
+    border-radius:100%;
+    width: 200px;
+    height: 250px;
     margin-bottom: 10px;
 }
 
@@ -59,6 +60,11 @@ a.font-black{
 #about .email{
     margin-top: 15px;
     font-size: 30px;
+}
+
+.email a{
+    text-decoration: none;
+    color: rgb(147, 98, 35);
 }
 
 #about .icons{
@@ -99,3 +105,4 @@ a.font-black{
 
     margin: 0 auto;
 }
+
