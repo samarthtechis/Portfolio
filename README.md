@@ -43,3 +43,8 @@ Thank you for using Twitter-Clone! If you have any questions or feedback, please
 
 https://samarthtechis.github.io/Portfolio/
 
+<img width="1409" alt="Screenshot 2024-03-27 at 1 33 15 PM" src="https://github.com/samarthtechis/Portfolio/assets/163623360/537a44af-3649-4f7c-ae0c-6c99106dffc1">
+
+
+
+
